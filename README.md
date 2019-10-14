@@ -1,2 +1,2 @@
-# node-sendEmail
-Node send email example
+# Scripts
+Repositório com scripts uteis para DevOps
